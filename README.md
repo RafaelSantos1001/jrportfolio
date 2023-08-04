@@ -1,7 +1,6 @@
 # Portfólio de Jorge Rafael
 
-![J.Rafael](assets/jrafael.png)
-
+![J.Rafael]
 ## Visão Geral
 
 Este é o repositório do portfólio de Jorge Rafael, um desenvolvedor web full-stack com vasta experiência em desenvolvimento de aplicações web escaláveis e responsivas. O site do portfólio foi desenvolvido utilizando as tecnologias HTML5, CSS3 e JavaScript.
